@@ -1,0 +1,14 @@
+C:\Users\Disha\DragAndDropApp\bin\Debug\net8.0-windows\DragAndDropApp.exe
+C:\Users\Disha\DragAndDropApp\bin\Debug\net8.0-windows\DragAndDropApp.deps.json
+C:\Users\Disha\DragAndDropApp\bin\Debug\net8.0-windows\DragAndDropApp.runtimeconfig.json
+C:\Users\Disha\DragAndDropApp\bin\Debug\net8.0-windows\DragAndDropApp.dll
+C:\Users\Disha\DragAndDropApp\bin\Debug\net8.0-windows\DragAndDropApp.pdb
+C:\Users\Disha\DragAndDropApp\obj\Debug\net8.0-windows\DragAndDropApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Disha\DragAndDropApp\obj\Debug\net8.0-windows\DragAndDropApp.AssemblyInfoInputs.cache
+C:\Users\Disha\DragAndDropApp\obj\Debug\net8.0-windows\DragAndDropApp.AssemblyInfo.cs
+C:\Users\Disha\DragAndDropApp\obj\Debug\net8.0-windows\DragAndDropApp.csproj.CoreCompileInputs.cache
+C:\Users\Disha\DragAndDropApp\obj\Debug\net8.0-windows\DragAndDropApp.dll
+C:\Users\Disha\DragAndDropApp\obj\Debug\net8.0-windows\refint\DragAndDropApp.dll
+C:\Users\Disha\DragAndDropApp\obj\Debug\net8.0-windows\DragAndDropApp.pdb
+C:\Users\Disha\DragAndDropApp\obj\Debug\net8.0-windows\DragAndDropApp.genruntimeconfig.cache
+C:\Users\Disha\DragAndDropApp\obj\Debug\net8.0-windows\ref\DragAndDropApp.dll

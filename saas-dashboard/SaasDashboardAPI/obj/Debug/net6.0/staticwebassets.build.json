@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uJOZwG0MJUnaes4biWphKjferGbW1kgnJWhBx8PV9fI=",
+  "Source": "SaasDashboardAPI",
+  "BasePath": "_content/SaasDashboardAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
